@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NihongoQuiz</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="question_beauty_parlor">美容院 is museum</string>
+    <string name="question_to_sweep">掃く is read はく and means to sweep;to brush</string>
+    <string name="question_to_gather">溜まる is read たまる and means to collect; to gather; to save</string>
+    <string name="question_tableware">食器 means weapon</string>
+    <string name="question_to_get_dirty">汚れる is read よごれる and means	1: to get dirty; to become dirty</string>
+    
+    <string name="question_drawer">箪笥 | たんす | chest of drawers; bureau; cabinet; tansu; dresser</string>
+    
+    <string name="true_button">True</string>
+	<string name="false_button">False</string>
+	
+	<string name="prev_button_description">Go to the previous question</string>
+	<string name="next_button_description">Go to the next question</string>
+	
+	<string name="correct_toast">Correct!</string>
+	<string name="incorrect_toast">Incorrect!</string>
+	
+	<string name="cheat_button">Cheat!</string>
+	<string name="warning_text">Are you sure you wanna do this?</string>
+	<string name="show_answer_button">Show Answer</string>
+	<string name="judgement_toast">Cheating is wrong :(</string>
+</resources>
